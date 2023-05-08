@@ -1,4 +1,4 @@
-# https---github.com-sanchit-9068-blynk_analog_sensor_value-transfer
+# Analog sensor
 
 
 First upload the edgent example of blynk library on the NodeMCU with whatever changes you want.
